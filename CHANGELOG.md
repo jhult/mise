@@ -1,5 +1,11 @@
 # Changelog
 
+## [2026.6.3](https://github.com/jdx/mise/compare/v2026.6.2..v2026.6.3) - 2026-06-10
+
+### 🐛 Bug Fixes
+
+- **(registry)** rename podman gh organization by @TyceHerrman in [#10288](https://github.com/jdx/mise/pull/10288)
+
 ## [2026.6.2](https://github.com/jdx/mise/compare/v2026.6.1..v2026.6.2) - 2026-06-09
 
 ### 🚀 Features
